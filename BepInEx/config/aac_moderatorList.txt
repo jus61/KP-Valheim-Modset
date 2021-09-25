@@ -1,1 +1,0 @@
-﻿// Put moderator steam IDs in this file. Works just like adminlist.txt
