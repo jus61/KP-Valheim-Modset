@@ -279,7 +279,7 @@
         "AllowedItemTypes": [
           "Shield"
         ],
-        "ItemHasNoParryPower": true
+        "ItemHasNoParryBonus": true
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" }
